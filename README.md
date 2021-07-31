@@ -22,3 +22,4 @@ uploading survey data on github was it's size, so rather than uploading here I h
 
 # Output
 ![github1](https://user-images.githubusercontent.com/66062385/127739279-0d73dcb1-d604-4d72-bb59-bff84b82d7b3.PNG)
+![github2](https://user-images.githubusercontent.com/66062385/127739293-a0d01f3a-a6b6-4470-b3b8-5b139bd313a9.PNG)
