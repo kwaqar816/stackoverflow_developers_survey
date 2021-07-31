@@ -18,3 +18,7 @@ uploading survey data on github was it's size, so rather than uploading here I h
  - **loops**
  - **dictionary**
  - **dataframe**
+
+
+# Output
+![github1](https://user-images.githubusercontent.com/66062385/127739279-0d73dcb1-d604-4d72-bb59-bff84b82d7b3.PNG)
